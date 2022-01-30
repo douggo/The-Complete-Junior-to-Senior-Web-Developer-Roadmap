@@ -1,10 +1,21 @@
 Exercise: #1 - Media Queries
 
-In the last lecture and the upcoming ones, I will be using the simple website to demonstrate some points. If you would like to follow along with the code, or you want to experiment yourself, I have attached the files here. Go ahead and experiment with the Media Queries to get comfortable with the technique! Important: These files will be used in the upcoming Exercise #2, so only worry about playing around Media Queries for now as we will be coming back to making this little project more optimized. 
+In the last lecture and the upcoming ones, 
+I will be using the simple website to demonstrate some points. 
+If you would like to follow along with the code, 
+or you want to experiment yourself, I have 
+attached the files here. Go ahead and experiment with the 
+Media Queries to get comfortable with the technique! 
+
+Important: These files will be used in the upcoming 
+Exercise #2, so only worry about playing around 
+Media Queries for now as we will be coming back to 
+making this little project more optimized. 
 
 Additionally, here are some extra resources:
 
-https://www.verexif.com/en/
+Remove EXIF from photos 
+(https://www.verexif.com/en/)
 
 Media Queries
 (https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
