@@ -1,0 +1,26 @@
+From Abhinav's "A tip for setting up local web server for this exercise":
+
+Step 1 is to download and install Python on your machine. If you're on Mac (like me) / Linux, it's already available, unless you wish to have the latest version.
+
+Step 2 is to check your Python version. On Mac's command line, just type: python -V . In my case, the version was 2.7.x (haven't upgraded to 3.x).
+
+Step 3 is to navigate to the directory where you've saved all of your resource files:
+
+e.g. cd Desktop 
+
+Step 4, run this command to start a server in this directory:
+
+python -m SimpleHTTPServer (this is for python 2.x version)
+
+python3 -m http.server (this is for Python 3.x version)
+
+Normally, this should run a local server on port 8000, but you can change the port setting, if you wish, as follows:
+
+python -m SimpleHTTPServer 7800 (python 2.x)
+
+python3 -m http.server 7800  (python 3.x)
+
+
+Step 5, all you have to do now is open a browser, type: localhost:8000 or locahost:7800, depending on your setup. And voila, you can now disable cache, set to Slow 3G, and watch the magic unfold! For best results, I also recommend using incognito mode on Chrome.
+
+To stop the server, on the command line, you can just press CTRL + C key.  
